@@ -44,7 +44,7 @@
             // 
             // uploadbutton1
             // 
-            this.uploadbutton1.Location = new System.Drawing.Point(49, 51);
+            this.uploadbutton1.Location = new System.Drawing.Point(184, 124);
             this.uploadbutton1.Name = "uploadbutton1";
             this.uploadbutton1.Size = new System.Drawing.Size(76, 25);
             this.uploadbutton1.TabIndex = 0;
@@ -63,7 +63,7 @@
             // 
             // progressbutton1
             // 
-            this.progressbutton1.Location = new System.Drawing.Point(10, 458);
+            this.progressbutton1.Location = new System.Drawing.Point(10, 557);
             this.progressbutton1.Name = "progressbutton1";
             this.progressbutton1.Size = new System.Drawing.Size(75, 23);
             this.progressbutton1.TabIndex = 2;
@@ -73,7 +73,7 @@
             // 
             // downloadbutton1
             // 
-            this.downloadbutton1.Location = new System.Drawing.Point(185, 458);
+            this.downloadbutton1.Location = new System.Drawing.Point(185, 557);
             this.downloadbutton1.Name = "downloadbutton1";
             this.downloadbutton1.Size = new System.Drawing.Size(75, 23);
             this.downloadbutton1.TabIndex = 3;
@@ -86,7 +86,7 @@
             // 
             // picturePath1
             // 
-            this.picturePath1.Location = new System.Drawing.Point(10, 82);
+            this.picturePath1.Location = new System.Drawing.Point(10, 155);
             this.picturePath1.Name = "picturePath1";
             this.picturePath1.Size = new System.Drawing.Size(252, 23);
             this.picturePath1.TabIndex = 4;
@@ -94,16 +94,16 @@
             // 
             // base64box1
             // 
-            this.base64box1.Location = new System.Drawing.Point(10, 153);
+            this.base64box1.Location = new System.Drawing.Point(10, 225);
             this.base64box1.Multiline = true;
             this.base64box1.Name = "base64box1";
-            this.base64box1.Size = new System.Drawing.Size(250, 272);
+            this.base64box1.Size = new System.Drawing.Size(250, 309);
             this.base64box1.TabIndex = 5;
             // 
             // textBox1
             // 
             this.textBox1.BackColor = System.Drawing.SystemColors.ControlLight;
-            this.textBox1.Location = new System.Drawing.Point(10, 53);
+            this.textBox1.Location = new System.Drawing.Point(10, 126);
             this.textBox1.Name = "textBox1";
             this.textBox1.Size = new System.Drawing.Size(33, 23);
             this.textBox1.TabIndex = 6;
@@ -113,7 +113,7 @@
             // textBox2
             // 
             this.textBox2.BackColor = System.Drawing.SystemColors.ControlLight;
-            this.textBox2.Location = new System.Drawing.Point(10, 124);
+            this.textBox2.Location = new System.Drawing.Point(10, 196);
             this.textBox2.Name = "textBox2";
             this.textBox2.Size = new System.Drawing.Size(54, 23);
             this.textBox2.TabIndex = 7;
@@ -123,7 +123,7 @@
             // textBox3
             // 
             this.textBox3.BackColor = System.Drawing.SystemColors.ControlLight;
-            this.textBox3.Location = new System.Drawing.Point(10, 487);
+            this.textBox3.Location = new System.Drawing.Point(10, 12);
             this.textBox3.Name = "textBox3";
             this.textBox3.Size = new System.Drawing.Size(62, 23);
             this.textBox3.TabIndex = 8;
@@ -132,7 +132,7 @@
             // 
             // keytext1
             // 
-            this.keytext1.Location = new System.Drawing.Point(10, 516);
+            this.keytext1.Location = new System.Drawing.Point(10, 41);
             this.keytext1.Name = "keytext1";
             this.keytext1.Size = new System.Drawing.Size(250, 23);
             this.keytext1.TabIndex = 9;

@@ -88,7 +88,6 @@ namespace photorepair
             }
             httpRequest.Method = method;
             httpRequest.Headers.Add("Authorization", "APPCODE " + appcode);
-            //根据API的要求，定义相对应的Content-Type
             httpRequest.ContentType = "application/json; charset=UTF-8";
             if (0 < bodys.Length)
             {
