@@ -13,7 +13,7 @@ namespace photorepair
 {
 
 
-    public partial class Form1 : Form
+    public partial class main : Form
     {
         public const String host = "https://photo.market.alicloudapi.com";
         public const String path = "/photo/repairPost";
@@ -33,7 +33,7 @@ namespace photorepair
         }
 
 
-        public Form1()
+        public main()
         {
             InitializeComponent();
         }
@@ -41,7 +41,7 @@ namespace photorepair
 
         private void button2_Click(object sender, EventArgs e)
         {
-           
+            GoAI(base64box1.Text);
     }
 
         public void button1_Click(object sender, EventArgs e)
@@ -64,7 +64,7 @@ namespace photorepair
 
 
 
-    static void Main(string[] args)
+    static void GoAI(string args)
         {
             String querys = "";
             String bodys = "{\"image\":\"ImageBase64;}";
