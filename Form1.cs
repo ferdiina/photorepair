@@ -69,5 +69,15 @@ namespace photorepair
         {
 
         }
+
+        private void textBox3_TextChanged(object sender, EventArgs e)
+        {
+
+        }
+
+        private void keytext1_TextChanged(object sender, EventArgs e)
+        {
+            
+        }
     }   
 }
