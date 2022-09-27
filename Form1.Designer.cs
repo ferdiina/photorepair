@@ -63,7 +63,7 @@
             // 
             // progressbutton1
             // 
-            this.progressbutton1.Location = new System.Drawing.Point(12, 458);
+            this.progressbutton1.Location = new System.Drawing.Point(10, 458);
             this.progressbutton1.Name = "progressbutton1";
             this.progressbutton1.Size = new System.Drawing.Size(75, 23);
             this.progressbutton1.TabIndex = 2;
@@ -102,6 +102,7 @@
             // 
             // textBox1
             // 
+            this.textBox1.BackColor = System.Drawing.SystemColors.ControlLight;
             this.textBox1.Location = new System.Drawing.Point(10, 53);
             this.textBox1.Name = "textBox1";
             this.textBox1.Size = new System.Drawing.Size(33, 23);
@@ -111,6 +112,7 @@
             // 
             // textBox2
             // 
+            this.textBox2.BackColor = System.Drawing.SystemColors.ControlLight;
             this.textBox2.Location = new System.Drawing.Point(10, 124);
             this.textBox2.Name = "textBox2";
             this.textBox2.Size = new System.Drawing.Size(54, 23);
@@ -120,7 +122,8 @@
             // 
             // textBox3
             // 
-            this.textBox3.Location = new System.Drawing.Point(12, 487);
+            this.textBox3.BackColor = System.Drawing.SystemColors.ControlLight;
+            this.textBox3.Location = new System.Drawing.Point(10, 487);
             this.textBox3.Name = "textBox3";
             this.textBox3.Size = new System.Drawing.Size(62, 23);
             this.textBox3.TabIndex = 8;
